@@ -1,4 +1,3 @@
-This repository contains the source codes used during the seminar on Evolutionary algorithms I.
 
 There is a number of files:
 - `sga.py` is the basic implementation of the Simple Genetic Algorithm from scratch
