@@ -42,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mutate_adaptive">
+  <component name="RunManager" selected="Python.lamarkism">
     <configuration name="cont_optim" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="eval-continuous" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,9 +150,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lamarkism" />
         <item itemvalue="Python.mutate_adaptive" />
         <item itemvalue="Python.cont_optimisization" />
-        <item itemvalue="Python.lamarkism" />
         <item itemvalue="Python.cont_optim" />
         <item itemvalue="Python.example" />
       </list>
