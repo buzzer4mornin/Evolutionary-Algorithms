@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de3391c9-7d03-4cc4-9df5-83a1f3b72624" name="Default Changelist" comment="" />
+    <list default="true" id="de3391c9-7d03-4cc4-9df5-83a1f3b72624" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baldwinism.py" beforeDir="false" afterPath="$PROJECT_DIR$/baldwinism.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamarkism.py" beforeDir="false" afterPath="$PROJECT_DIR$/lamarkism.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577119010755</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;folder cleaning&quot;">
+      <created>1577119106915</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577119106915</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;folder cleaning&quot;">
+      <created>1577119161746</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577119161746</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +218,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Larmackism &amp; Baldwinism added&quot;" />
     <MESSAGE value="README updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="README updated" />
+    <MESSAGE value="&quot;folder cleaning&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;folder cleaning&quot;" />
   </component>
 </project>

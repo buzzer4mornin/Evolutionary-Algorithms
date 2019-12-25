@@ -45,7 +45,7 @@ class lamark_evol:
             learning_method = self.learning_method
         if life_t is None:
             life_t = self.life_duration
-        for _ in range(life_t):  # During life
+        for _ in range(life_t):
             ind = learning_method(self.fit_func, ind)
         return (ind)
 
